@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(255, 0, 34);
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(248, 246, 246, 0.937);
+}
+#para{
+    color: white;
+    background-color: red;
+}
